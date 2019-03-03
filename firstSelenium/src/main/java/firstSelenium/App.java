@@ -1,4 +1,4 @@
-package Selenium2019;
+package firstSelenium;
 
 /**
  * Hello world!
